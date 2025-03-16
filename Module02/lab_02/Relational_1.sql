@@ -1,0 +1,10 @@
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Structure_Type\MDSYS.SDO_GEOMETRY.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Structure_Type\XMLTYPE.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Table\orders.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Table\orders_Constraints.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Table\people.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Table\people_Constraints.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Table\returns.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\Table\returns_Constraints.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\ForeignKey\orders_people_FK.sql
+@@Untitled_1\Relational_1\Oracle_Database_11g\DataObjects\ForeignKey\orders_returns_FK.sql
